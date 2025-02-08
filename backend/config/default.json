@@ -1,0 +1,15 @@
+{
+    "appName": "IIIT Buy-Sell Platform",
+    "jwtExpiration": "1h",
+    "otpLength": 6,
+    "supportedCategories": [
+        "clothing",  
+        "electronics", 
+        "books",
+        "furniture",
+        "sports",
+        "groceries",
+        "stationery",
+        "others"
+    ]
+}
