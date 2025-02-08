@@ -6,7 +6,7 @@ This is a ecommerce website built using MERN stack. It is a full stack project. 
 
 To run the project, clone the repository
 
-Create a .env file in the backend folder and add the environment variables given in the .env_sample file
+Create a .env file in the backend folder and add the environment variables given in the .env.example file
 
 Then run the following commands
 
